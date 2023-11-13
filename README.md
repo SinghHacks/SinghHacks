@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SDsynk
+- 👋 Hi, I’m @Dsynk
 - 💞️ I’m looking to collaborate on Different Security Topics
 - 📫 How to reach me singhhacks.eh@proton.me
 
