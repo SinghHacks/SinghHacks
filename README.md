@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @SDsynk
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on Different Security Topics
 - 📫 How to reach me singhhacks.eh@proton.me
 
