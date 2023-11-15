@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/SinghHacks">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Davinder+Singh;Cybersecurity+Researcher;Senior Cybersecurity Analyst+%7C+WebApplication Pentester+%7C+" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Dsynk;Cybersecurity+Researcher;Senior Cybersecurity Analyst+%7C+WebApplication Pentester+%7C+" alt="Typing SVG" />
 </a>
 <br/>
 
