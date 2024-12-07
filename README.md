@@ -1,4 +1,4 @@
-![SinghHacksFinal](https://github.com/HackWithSumit/HackWithSumit/assets/120317751/480bfdb0-eb69-41bf-baff-26bd8f4d2220)
+![Dsynk](https://github.com/HackWithSumit/HackWithSumit/assets/120317751/480bfdb0-eb69-41bf-baff-26bd8f4d2220)
 
 <p align="center">
 <a href="https://github.com/SinghHacks">
